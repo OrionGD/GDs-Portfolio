@@ -39,7 +39,7 @@ export const EXPERIENCE: Experience[] = [
   {
     role: "UI/UX Design Intern",
     company: "SkillCraft",
-    period: "Jan 2025 – Mar 2025",
+    period: "Feb 2025 – Mar 2025",
     details: [
       "Homepage redesign for improved hierarchy and visual clarity",
       "Dark mode theme integration for mobile news applications",
@@ -47,26 +47,27 @@ export const EXPERIENCE: Experience[] = [
       "User journey mapping and pain point analysis for fitness apps"
     ]
   },
-  {
-    role: "Cybersecurity Intern",
-    company: "Adaovi",
-    period: "May 2024 – Jul 2024",
-    details: [
-      "Password Strength Checker with real-time feedback",
-      "Ethical Keylogger simulation for security demonstrations",
-      "Penetration testing fundamentals and password security audits"
-    ]
-  },
-  {
+    {
     role: "Web Development Intern",
     company: "Prodigy InfoTech",
-    period: "Jan 2024 – Mar 2024",
+    period: "Aug 2024 – Sept 2024",
     details: [
       "Weather Web App using REST APIs and responsive design",
       "Utility tools: Stopwatch and Tic-Tac-Toe with dynamic DOM",
       "Frontend-backend integration focusing on cross-platform compatibility"
     ]
+  },
+  {
+    role: "Cybersecurity Intern",
+    company: "Adaovi",
+    period: "Jun 2024 – Jul 2024",
+    details: [
+      "Password Strength Checker with real-time feedback",
+      "Ethical Keylogger simulation for security demonstrations",
+      "Penetration testing fundamentals and password security audits"
+    ]
   }
+
 ];
 
 export const SKILLS: SkillCategory[] = [
