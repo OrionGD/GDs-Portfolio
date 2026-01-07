@@ -93,8 +93,8 @@ export const PROJECTS: Project[] = [
     category: "AI / ML", 
     tech: ["MERN", "TypeScript", "Google Gemini"], 
     description: "AI-powered adaptive learning platform. Personalizes lessons using Google Gemini, generates quizzes, and rewrites content based on learning styles.", 
-    github: "https://github.com/OrionGD/SMARTLMS16", 
-    demo: "https://smartlms-orion.vercel.app" 
+    github: "https://github.com/OrionGD/SMART-LMS-16", 
+    demo: "https://smart-k6c7kww3i-oriongds-projects.vercel.app/" 
   },
   { 
     title: "VELTRIO", 
@@ -102,14 +102,14 @@ export const PROJECTS: Project[] = [
     tech: ["React", "TypeScript", "Gemini 2.5"], 
     description: "AI-Powered Real-time Translation & Conversation Platform. Leveraging Gemini models for seamless language processing and sentiment analysis.", 
     github: "https://github.com/OrionGD/VELTRIO", 
-    demo: "https://veltrio-ai.netlify.app" 
+    demo: "https://veltrio.vercel.app/" 
   },
   { 
     title: "MTS Security", 
     category: "Systems", 
     tech: ["Java", "GPS API", "Encryption"], 
     description: "Mobile Tracking System (MTS) designed for device security, enabling real-time location tracking and remote sensitive data locking.", 
-    github: "https://github.com/OrionGD/GD-s-Mobile-Tracking-System-", 
+    github: "https://github.com/OrionGD/GD-s-Mobile-Tracking-System", 
     demo: "#" 
   },
   { 
@@ -133,8 +133,8 @@ export const PROJECTS: Project[] = [
     category: "XR", 
     tech: ["Unity", "ARCore", "C#"], 
     description: "Augmented reality visualizer for data structures and algorithms, helping students grasp complex concepts in 3D space.", 
-    github: "https://github.com/OrionGD/ARgorithm", 
-    demo: "https://argorithm-demo.godfrey.dev" 
+    github: "#", 
+    demo: "#" 
   },
   { 
     title: "Waiting List Mgt", 
@@ -150,7 +150,7 @@ export const PROJECTS: Project[] = [
     tech: ["JavaScript", "REST APIs", "CSS"], 
     description: "Responsive Weather Web App providing hyper-local forecasts and dynamic atmospheric visualizations.", 
     github: "https://github.com/OrionGD/GD-S-Web-Weather-Application", 
-    demo: "https://weather-sphere-prodigy.netlify.app" 
+    demo: "#" 
   },
   { 
     title: "GD Optimizer", 
