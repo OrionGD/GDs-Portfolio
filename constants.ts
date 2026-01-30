@@ -10,7 +10,7 @@ export const PERSONAL_INFO = {
   phone: "+91 93444 62238",
   location: "Tiruchirapalli, Tamil Nadu, India",
   github: "https://github.com/OrionGD",
-  linkedin: "https://linkedin.com/in/godfrey1823lw",
+  linkedin: "https://linkedin.com/in/godfrey192607",
   hackerrank: "https://hackerrank.com/OrionGD07",
   leetcode: "https://leetcode.com/u/OrionGD/"
 };
@@ -133,7 +133,7 @@ export const PROJECTS: Project[] = [
     category: "XR", 
     tech: ["Unity", "ARCore", "C#"], 
     description: "Augmented reality visualizer for data structures and algorithms, helping students grasp complex concepts in 3D space.", 
-    github: "#", 
+    github: "https://github.com/OrionGD/ARgorithm", 
     demo: "#" 
   },
   { 
